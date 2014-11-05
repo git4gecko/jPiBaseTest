@@ -1,0 +1,4 @@
+jPiBaseTest
+===========
+
+Basis für Wetterstation
